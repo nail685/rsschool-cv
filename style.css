@@ -1,1 +1,39 @@
+body {
+    width: 1400px;
+    margin: 0 30%;
+    background: linear-gradient(45deg, #EECFBA, #C5DDE8);
+}
 
+header,
+main,
+footer {
+    width: 1000px;
+}
+
+#ffc0cb .author {
+    text-align: center;
+}
+
+.contact {
+    padding-left: 50px;
+}
+
+.skills {
+    padding-left: 55px;
+}
+
+table {
+    border: black solid 3px;
+    padding: 10px 20px;
+}
+
+.img_rsschool {
+    width: auto;
+    height: 100px;
+    padding-right: 50px;
+}
+
+footer {
+    position: relative;
+    align-content: center;
+}
